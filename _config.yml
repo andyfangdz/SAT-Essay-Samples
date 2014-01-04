@@ -8,14 +8,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : SAT Writing Samples Collection
+tagline: Good luck with your SAT!
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Andy Fang
+  email : AndyFang.DZ@gmail.com
+  github : yzmtf2008
+  twitter : yzmtf2008
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -82,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : satsamplecollection
     livefyre :
       site_id : 123
     intensedebate :
