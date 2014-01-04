@@ -5,7 +5,19 @@ header: Pages
 group: navigation
 ---
 {% include JB/setup %}
-
+<script>
+  (function() {
+    var cx = '000060150029383233862:bzlidr8vz4g';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
 <h2>All Pages</h2>
 <ul>
 {% assign pages_list = site.pages %}
