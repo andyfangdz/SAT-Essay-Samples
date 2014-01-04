@@ -1,0 +1,5 @@
+kramdown:
+      input: GFM
+safe: true
+lsi: false
+pygments: true
