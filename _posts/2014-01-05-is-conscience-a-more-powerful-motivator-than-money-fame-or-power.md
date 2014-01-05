@@ -12,8 +12,6 @@ tags: []
 1.  Conscience > Success
 
 2.  Pavel Nedved 
-    * (Owens pierced a myth)[http://espn.go.com/sportscentury/features/00016393.html]
-    * 
+    * [Owens pierced a myth](http://espn.go.com/sportscentury/features/00016393.html)
 
 3.  Conscience > Money
-    *
