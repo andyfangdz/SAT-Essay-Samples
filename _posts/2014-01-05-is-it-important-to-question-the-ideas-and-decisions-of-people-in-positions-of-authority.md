@@ -47,4 +47,6 @@ tags: [challenge, authority]
 > In the ___Avatar___ movie by ___James Cameron___, by 2154, humans have severely depleted Earth's natural resources. The Resources Development Administration (RDA) mines for a valuable mineral – unobtanium – on Pandora, a densely forested habitable moon orbiting the gas giant Polyphemus in the Alpha Centauri star system. ___Jake___, an ex-marine operator of the hybrids of human and Na'vi (the natives on Pandora), resisted the authority. In order to achieve ___maxium productivity___,
 > the authority decided to wipe out the Na'vis. ___Jake___ resisted the action, and acted on the side of Na'vis. In his defy against the authority's ignorance of the ecosystem and lives on Pandora, he joined the rebel of Na'vis, and defeated the military force sent by the authority. He saved all of the creatures on the moon, and probably the entire moon for the ground would collapse if all the mines were removed.
 
+
+
 Signed off by Andy Fang at 03:12 2014/01/05.

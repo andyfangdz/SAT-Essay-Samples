@@ -40,6 +40,7 @@ tags: []
 *   > Our value calls upon us to care for the lives of people we will never meet.
     >
     > -- Barack Obama
+
 ### Critical Thinking
 1.  Martin Luther King was successful primarily because America was trying to win the propaganda side of the Cold War. He did ___not___ do it alone. He worked with lots of people Black and White.
 2.  The problem that arises in any society that professes human rights is how to resolve problems that arise when rights conflict. A widely held definition of freedom is "the right to do what I want as long as it doesn't interfere with someone else's right." In one sense, it is not a bad definition. It recognizes that there are limits to one's rights.
@@ -54,3 +55,10 @@ tags: []
     In relating to the recent uncovered program __PRISM__, the scenerio is probably happening right now.
     POINT: This is what happens when the government has exclusive control over the issues concerns the nation: abuse of power is created.
 2.  In the TV show ___House of Cards___ The House Majority Whip ___Frank Underwood___ used multiple ways to control the Congress, and even in the impotant ___education bill___, he modified the bill -- not for the benificial of the teachers, which can be seen through an unethicly resolved strike of the teachers(framing a child's death on the union leader and forced the leader to "assult a congress) , but for his own interests. However, if such bill is not written by some "experts group" inside the government, this would be.....
+
+
+
+### Others
+*   Government -> More resources...
+*   CT -> (1)
+*   Community Service
