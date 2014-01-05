@@ -11,7 +11,7 @@ tags: [challenge, authority]
 > Sometimes it is necessary to challenge what people in authority claim to be true. Although some respect for authority is, no doubt, necessary in order for any group or organization to function, questioning the people in charge-even if they are experts or leaders in their fields-makes us better thinkers. It forces all concerned to defend old ideas and decisions and to consider new ones. Sometimes it can even correct old errors in thought and put an end to wrong actions.
 
 ### Quotes
-*   > “Any fool can make a rule, and any fool will mind it.”
+*   > Any fool can make a rule, and any fool will mind it.
     >
     > -- Henry David Thoreau
 *   > To punish me for my contempt for authority, fate made me an authority myself.
